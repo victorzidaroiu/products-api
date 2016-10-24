@@ -6,8 +6,8 @@ http://products-api.zidaroiu.com
 
 ## Requirements
 
-Node
-Mysql
+- Node
+- Mysql
 
 ## Installation
 
