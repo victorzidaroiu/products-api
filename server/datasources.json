@@ -7,20 +7,20 @@
     "name": "products",
     "table" : "products",
     "connector": "mysql",
-    "host":"localhost",
-    "port":3306,
-    "database":"dev",
-    "username":"root",
-    "password": ""
+    "host":"us-cdbr-iron-east-04.cleardb.net",
+    "port":80,
+    "database":"heroku_4f97ca88d072c3b",
+    "username":"bb94c19f4560a5",
+    "password": "68fda80b"
   },
   "comments": {
     "name": "comments",
     "table" : "comments",
     "connector": "mysql",
-    "host":"localhost",
-    "port":3306,
-    "database":"dev",
-    "username":"root",
-    "password": ""
+    "host":"us-cdbr-iron-east-04.cleardb.net",
+    "port":80,
+    "database":"heroku_4f97ca88d072c3b",
+    "username":"bb94c19f4560a5",
+    "password": "68fda80b"
   }
 }
