@@ -9,7 +9,7 @@
     "connector": "mysql",
     "host":"enqhzd10cxh7hv2e.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port":3306,
-    "database":"heroku_4f97ca88d072c3b",
+    "database":"trc8byptylervijr",
     "username":"a59mvwr9ooitvp66",
     "password": "rp072ij96o1612ey"
   },
@@ -19,7 +19,7 @@
     "connector": "mysql",
     "host":"enqhzd10cxh7hv2e.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port":3306,
-    "database":"heroku_4f97ca88d072c3b",
+    "database":"trc8byptylervijr",
     "username":"a59mvwr9ooitvp66",
     "password": "rp072ij96o1612ey"
   }
