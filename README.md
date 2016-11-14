@@ -1,6 +1,6 @@
 # Products API
 
-API for the Products App using loopback
+API for the Products App.
 
 http://products-api.zidaroiu.com
 
@@ -11,4 +11,11 @@ http://products-api.zidaroiu.com
 
 ## Installation
 
-Install mysql, create a database and run schema.sql to create the tables
+* ``` cp .env.dev .env ```
+* Create a database in mysql
+* Run ./schema.sql on the database to create the tables
+* Update .env with the db connection details
+
+## Run
+
+``` npm start ```
